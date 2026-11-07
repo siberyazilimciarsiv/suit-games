@@ -66,5 +66,3 @@ Uygulamayı yalnızca bu sayfadan ya da resmi Telegram kanalından indir. Resmi 
 - Remote Play: [chiaki-ng](https://github.com/streetpea/chiaki-ng) (AGPL-3.0).
 - Çevirilerde topluluk çevirmenlerinin emeğine teşekkür ederiz.
 - Oyun adları ve içerikleri ilgili yapımcılarına aittir. Suit Games hiçbir oyun şirketiyle bağlantılı değildir.
-
-<p align="center"><b>Suit Ajans</b> · Bursa · <a href="https://suitajans.com">suitajans.com</a></p>
