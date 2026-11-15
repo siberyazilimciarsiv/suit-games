@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/siberyazilimciarsiv/suit-games/releases/latest/download/SuitGames.apk"><img src="https://img.shields.io/badge/APK%27yı_indir-0.9.3-FFCA26?style=for-the-badge&logo=android&logoColor=black" alt="APK'yı indir"></a>
+  <a href="https://github.com/siberyazilimciarsiv/suit-games/releases/latest/download/SuitGames.apk"><img src="https://img.shields.io/badge/APK%27yı_indir-1.0.5-FFCA26?style=for-the-badge&logo=android&logoColor=black" alt="APK'yı indir"></a>
   <a href="https://t.me/suitgames"><img src="https://img.shields.io/badge/Telegram-Kanal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram kanalı"></a>
 </p>
 
