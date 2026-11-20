@@ -5,12 +5,12 @@
 <h1 align="center">Suit Games</h1>
 
 <p align="center">
-  <b>PS5 oyunları artık Türkçe.</b><br>
+  <b>PlayStation ve Xbox oyunları artık Türkçe.</b><br>
   Oynadığın her oyunun İngilizce altyazısını anında Türkçeye çevirir ve TV'de, oyunun üstünde gösterir.
 </p>
 
 <p align="center">
-  <a href="https://github.com/siberyazilimciarsiv/suit-games/releases/latest/download/SuitGames.apk"><img src="https://img.shields.io/badge/APK%27yı_indir-1.0.5-FFCA26?style=for-the-badge&logo=android&logoColor=black" alt="APK'yı indir"></a>
+  <a href="https://github.com/siberyazilimciarsiv/suit-games/releases/latest/download/SuitGames.apk"><img src="https://img.shields.io/badge/APK%27yı_indir-1.0.12-FFCA26?style=for-the-badge&logo=android&logoColor=black" alt="APK'yı indir"></a>
   <a href="https://t.me/suitgames"><img src="https://img.shields.io/badge/Telegram-Kanal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram kanalı"></a>
 </p>
 
@@ -20,16 +20,18 @@
 
 ## Tüm oyunlar, anında Türkçe
 
-Suit Games **her oyunda** çalışır. Oyun ekranda İngilizce konuşurken çeviri saniyeler içinde TV'nde, oyunun hemen üstünde Türkçe olarak belirir. Oyuna ve PS5'e dokunmadan, bilgisayar gerekmeden; sadece telefonunla.
+Suit Games **her oyunda** çalışır. Oyun ekranda İngilizce konuşurken çeviri saniyeler içinde TV'nde, oyunun hemen üstünde Türkçe olarak belirir. Oyuna ve konsola dokunmadan, bilgisayar gerekmeden; sadece telefonunla.
 
 - **Anlık çeviri:** Altyazı ekrana düştüğü an Türkçesi TV'de.
 - **Doğal Türkçe:** Yapay zekâ ile akıcı, oyunun havasına uygun çeviri.
 - **Her TV'de:** LG, Samsung ve Android TV. TV'n yoksa telefonda tam ekran.
+- **PS5, PS4 ve Xbox:** Konsolunu kurulumda seçersin, gerisini uygulama halleder.
+- **Ortak çeviri havuzu:** Bir oyuncunun çevirdiği satır, aynı oyunu oynayan herkese anında gelir.
 - **Kolay kurulum:** İlk açılışta adım adım sihirbaz, her şey telefondan.
 
 ## Nasıl çalışır?
 
-| 1 · PS5 | 2 · Telefon | 3 · TV |
+| 1 · Konsol | 2 · Telefon | 3 · TV |
 |:---:|:---:|:---:|
 | Oyununu her zamanki gibi oynarsın. | Suit Games altyazıyı okur, anında Türkçeye çevirir. | Türkçe altyazı, TV'de oyunun üstünde çıkar. |
 
@@ -60,9 +62,6 @@ Yeni sürümler çıktığında uygulama içinden haber verilir. Güncellemeler 
 
 Uygulamayı yalnızca bu sayfadan ya da resmi Telegram kanalından indir. Resmi APK'lar Suit Games anahtarıyla imzalıdır; değiştirilmiş kopyalar açılmaz.
 
-## Teşekkür
+---
 
-- [CouchSubs](https://github.com/yorulmazsinan/couchsubs) üzerine kurulmuş bir Android uyarlamasıdır.
-- Remote Play: [chiaki-ng](https://github.com/streetpea/chiaki-ng) (AGPL-3.0).
-- Çevirilerde topluluk çevirmenlerinin emeğine teşekkür ederiz.
-- Oyun adları ve içerikleri ilgili yapımcılarına aittir. Suit Games hiçbir oyun şirketiyle bağlantılı değildir.
+<p align="center">Oyun adları ilgili yapımcılarına aittir; Suit Games hiçbir oyun şirketiyle bağlantılı değildir.</p>
